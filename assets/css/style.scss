@@ -1,0 +1,21 @@
+---
+---
+
+.profile {
+    position: relative;
+
+    .image {
+        float: left;
+
+        img {
+            width: 80px;
+            border-radius: 50px;
+        }
+    }
+    
+    .info {
+        float: left;
+        width: 60%;
+        margin-left: 10px;
+    }
+}

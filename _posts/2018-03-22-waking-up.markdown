@@ -1,0 +1,105 @@
+---
+layout: post
+title:  "Waking Up - Sam Harris"
+date:   2018-03-22 10:00:00 +0000
+categories: books
+---
+![Cover]({{ site.baseurl }}/assets/img/wakingup.jpg){:width="150px"}
+
+Date read: 16/01/2017
+
+**Summary**  
+Sam Harris provides a scientific exploration of spirituality, framing the wisdom found and questions posed by religious 'comptemplatives' such as Buddha and Jesus. He suggests ways in which we can use spirituality, without the religious component, to better understand our lives.
+
+**Structure**  
+The book is formed of 5 chapters:
+- Spirituality
+- The Mystery of Consciousness
+- The Riddle of the Self
+- Meditation
+- Gurus, Death, Drugs and Other Puzzles
+
+**Quotes**
+
+*"How we pay attention to the present moment largely determines the character of our experience and, therefore, the quality of our lives."* - p3
+
+*"Ceaseless change is an unreliable basis for lasting fulfillment.* - p12
+
+*"It is always now."* - p34
+
+*"We know that the worst can happen to anyone at any time - and most people spend a great deal of mental energy hoping that it won't happen to them."* - p41
+
+*"Every mental state you have ever had has arisen, and then passed away."* - p45
+
+*"Consciousness is the one thing in this universe that cannot be an illusion."* - p54
+
+*"There is no stable self that is carried along from one moment to the next."* - p87
+
+*"Look closely enough at your own mind in the present moment, and you will discover that the self is an illusion."* - p92
+
+*"It may be coincidental that [you] use phrases like 'self-conscious' when really you mean that you are conscious of others being conscious of you."* - p112
+
+*"To pay attention outwardly reduces activity in the brain's midline, while thinking about oneself increases it."* - p121
+
+*"The deeper purpose of meditation is to recognise that which is common to all states of experience, both pleasant and unpleasant."* - p140
+
+**Key Takeaways**
+
+*Happiness is elusive*  
+Most of us spend our entire lives searching for happiness, seeking pleasant sensations. Once achieved, this 'happiness' passes and the craving returns again. Does happiness exist *before* all this? Is it possible to be happy regardless of external stimuli?
+
+*Religious common grounds*  
+There is a distinct difference between Eastern and Western religions. Tools like meditation can be used without believing in karma or miracles attributed to Indian mystics, whereas Christianity and Islam are based on these miracles.
+
+*Mindfulness*  
+Mindfulness is not thinking more clearly about an experience, it is the act of experiencing more clearly. Being immersed in a film then realising that you are simply watching some light on a wall.
+
+*The Buddha's four foundations of mindfulness*  
+1. The body (breathing, changes in posture)
+2. Feelings (senses of pleasantness, unpleasantness or neutrality)
+3. The mind (moods and attitudes)
+4. The objects of the mind (five senses and other mental states like volition, tranquility, rapture, etc.)
+
+All of one's experience can become the field of contemplation.
+
+*What is it like to be a bat?*  
+Thomas Nagel argues that "an organism has conscious mental states if and only if there is something that it is like to be that organism." For example, "What is it like to be a bat?"
+
+*Split brain*  
+The corpus callosum connects the two brain hemispheres. When this is severed, the brain appears to take on two separate "consciousnesses" by becoming functionality independent. The primary example of this is seen in the image below.
+
+![Split Brain]({{ site.baseurl }}/assets/img/wakingup-split-brain.png){:width="300px"}
+
+This puts pressure on the idea of 'personal identity', what makes us who we are if consciousness can be divided?
+
+*Dual processes*  
+The brain has two systems which govern human cognition, emotion and behaviour (often referred to as system 1 and system 2). Most system 1 processes occur in our unconsciousness, outside of our human consciousness, which means we have very limited control over them. Have a look at [Thinking, Fast and Slow]({{ site.baseurl }}{% post_url 2018-03-11-thinking-fast-and-slow %}) for more information on this.
+
+*Teletransportation paradox*  
+Philosopher Derek Parfit asks us to imagine entering a 'teletransporter', which puts you to sleep, destroys you, breaking you down into atoms, copying the information and relaying it to Mars at the speed of light. On Mars, another machine re-creates you from local stores of each atom in exactly the same position. Is this a method of travel? Is the person on Mars the same person who entered on Earth? What if the machine is then upgraded to produce infinite replicas? Are they all the same person?
+
+This raises questions over the nature of consciousness. Would that person have the same 'soul' as you? Would they have the same consciousness? Or would that be destroyed? Would it divide, so that the memories of all those clones were combined?
+
+In some ways, the machine is the same as the passing of time. There is no stable self from one moment to the next, personal identity is an illusion.
+
+*Suffering*  
+We spend our lives lost in thought, and suffering is entirely the product of these thoughts. Meditation aims to observe and step outside this endless stream.
+
+*Rubber hand illusion*  
+Following on from the idea of the self being an illusion, the rubber hand experiment shows that people will think a rubber hand is their own.
+
+![Rubber Hand Illusion]({{ site.baseurl }}/assets/img/wakingup-rubber-hand.jpg){:width="300px"}
+
+*Theory of mind*  
+The ability to attribute mental states - beliefs, intents, desires, emotions, knowledge, etc - to oneself and to others. This is an essential part of cognitive and social development.
+
+Is ToM relevant to sense of self? When you look at someone in the street, you become acutely aware when they look back at you. Is the reason we enjoy watching TV so much is because we can study people, give them eye contact, etc. without worrying about them looking back at us.
+
+*Dualistic mindfulness*  
+Mind-body dualism is the idea that the mind and body are separate. Following the breath is dualistic mindfulness, and proceeds on the basis of illusion because there is both a subject (the meditator) and an object (the breath). For non-dualistic mindfulness to occur you'd have to have a complete cessation of thoughts, which is extremely difficult to achieve.
+
+*Dzogchen*  
+A tradition of teachings in Tibetan Buddhism where the goal is to experience intrinsic selflessness in every moment. The student is taught to meditate unencumbered by subject/object dualism.
+
+*Having no head*  
+Douglas Harding imagined that he had no head, that when people looked at him they were looking at something he couldn't see. In this moment of insight he lost his sense of self.

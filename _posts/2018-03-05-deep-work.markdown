@@ -1,0 +1,78 @@
+---
+layout: post
+title:  "Deep Work - Cal Newport"
+date:   2018-03-05 10:00:00 +0000
+categories: books
+---
+![Cover]({{ site.baseurl }}/assets/img/deepwork.jpg){:width="150px"}
+
+Date read: 6/11/2016
+
+**Summary**  
+Cal Newport defines deep work as "professional activities performed in a state of distraction-free concentration that push your cognitive abilities to their limit."
+The book describes the history, importance and methods you can use to get into a state of deep work, as well as avoiding the antithesis of it, shallow work.
+
+**Structure**  
+The book follows a simple structure:
+- The Idea (valuable, rare and meaningful)
+- The Rules (work deeply, embrace boredom, quit social media and drain the shallows)
+
+**Quotes**  
+
+_"Open offices, for example, might create more opportunities for collaboration, but they do so at the cost of 'massive distraction.'"_ - p51
+
+_"[Great creative minds] think like artists, but work like accountants."_ - (David Brooks) p119
+
+_"Distraction remains a destroyer of depth."_ - p134
+
+_"The more you try to do, the less you actually accomplish."_ - p136
+
+_"You both should, and can, make deliberate use of your time outside work."_ - p211
+
+_"For many, there's a comfort in the artificial busyness of rapid email messaging and social media posturing."_ - p263
+
+**Key Takeaways**
+
+_Deep work vs shallow work_  
+Shallow work is defined as "noncognitively demanding, logistical-style tasks, often performed while distracted." This work is easy to replicate and doesn't create new value. The average knowledge worker spends 60% of their time in this state, what a waste! Deep work creates new value, requires distraction-free concentration and is limited to about 4 hours a day for the average person.
+
+_Avoiding distraction at all costs_  
+It takes about 15 minutes to enter a 'flow' state, but distraction can take you immediately out of that (like sound and sleep). This interferes with the myelin strengthening that happens around neurons that fire together when learning a skill.
+
+High quality work = (time spent) * (intensity of focus)
+
+_Metric black hole_  
+Businesses are useless at quantifying actual work completed, which allows for increased 'busyness' and ineffective use of time.
+
+_Principle of least resistance_  
+We tend towards behaviours that are easiest in the moment. It's become easier to scroll through some drivel on your phone than be mindful of what is around you. Fight against the mindlessness!
+
+_Busyness ≠ Productivity_  
+Just because you're doing stuff doesn't mean you are productive. Busyness is not an indicator of productivity!
+
+_Willpower depletion_  
+Willpower is like a muscle, the more you use it the weaker it gets, until you rest it again.
+
+_Chain method and rituals for work_  
+Make work a habit, perform a "chain" of several tasks that culminates in sitting down to work. You will then find it easier to enter a 'deep' state. This includes:
+- Where you'll work and for how long.
+- How you'll work once you start to work (organising tasks first?)
+- How you'll support your work (hot drinks, breaks, walking, etc.)
+
+_4 Disciplines of Execution_
+1. Focus on the wildly important
+2. Act on the lead measures (what are you actually trying to improve? as opposed to lag measures)
+3. Keep a compelling scoreboard (such as a kanban board of completed tasks, etc.)
+4. Create a cadence of accountability (e.g. tracking time on Rescuetime)
+
+_The power of unconscious thought_  
+Your brain works on problems in the background whilst you are focusing on other things. Use this to your advantage, don't be afraid to shut off and not worry about something that needs completing. The answer will most likely occur to you when you sit down the next day. The work you do in the evening is most likely not important.
+
+_Quit social media (and tool selection)_  
+Multitasking is bad! Free yourself from distraction, be bored because it's better for your brain in the long run. This will help improve your ability to focus on tasks, allowing you to concentrate for longer periods without fatigue.
+
+_Pareto principle (80/20 rule)_  
+80% of the effects come from 20% of the causes.
+
+_4 hours a day_  
+Humans can work effectively for no more than 4 hours a day on a task they are familiar with. Once you hit that limit, it's diminishing returns if you try to cram in more.

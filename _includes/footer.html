@@ -1,0 +1,31 @@
+<footer class="site-footer h-card">
+    <data class="u-url" href="{{ "/" | relative_url }}"></data>
+  
+    <div class="wrapper">
+  
+      <div class="footer-col-wrapper">
+        <div class="footer-col footer-col-1">
+            <p>{{ site.description | escape }}</p>
+            Follow me on <a href="https://www.goodreads.com/user/show/22312452-simon-rose" target="_blank">Goodreads.</a>
+        </div>
+  
+        <div class="footer-col footer-col-2">
+          {% include social.html %}
+        </div>
+  
+        <div class="footer-col footer-col-3">
+          <div class="profile">
+              <div class="image">
+                  <img src="https://s.gravatar.com/avatar/5a0fd43b00b619257adf46ee7626f254?s=300">
+              </div>
+              <div class="info">
+                  Dr Simon Rose is a Software Engineer from Sheffield, UK.
+              </div>
+          </div>
+          
+        </div>
+      </div>
+  
+    </div>
+  
+  </footer>

@@ -1,0 +1,93 @@
+---
+layout: post
+title:  "101* and My Top 10 Books of 2020"
+date:   2020-12-31 10:00:00 +0000
+categories: books
+---
+
+It's fair to say that 2020 has been an interesting year for everyone. For me, I started the year finishing several months of working as an associate lecturer for Sheffield Hallam University, a short term post after finishing my PhD with the aim of saving money to go backpacking in early February. My trip to South America lasted 6 weeks, before a mad journey to get home as governments panicked to deal with the impending COVID-19 pandemic. I made it home on the 17th March, 6 days before UK lockdown.
+
+Since then, I've been lucky enough to pick up work that I can do from home (including starting a [business](https://rosebrothersdigital.co.uk/)). However, with lockdown after lockdown, I've also had lots of time to read.
+
+I started reading properly in January 2016, when my brother and I set ourselves the goal of reading a book a week for that year. Since then, I've managed to beat this target each year, reading a mixture of fiction and non-fiction, across a wide range of subjects (the only barrier of entry to my reading list is a rating of above 3.9 on Goodreads!) I tend to have one fiction and one non-fiction on the go, that I'll swap between depending on the heaviness of the book, the time of day, and how bad my stress headache is.
+
+This year, however, I realised in around June that I was on pace to break the triple figures. I've managed to maintain that consistency, even through the mental struggle that has been 2020, and reached 101. An achievement that I will probably not be able to achieve again, not least without some stat padding.
+
+So, after 101 books and 35,586 pages, I've managed to whittle down an initial list of 20 books into a top 10 that I've read this year, split into non-fiction and fiction categories (in no particular order). Here we go...
+
+**Non-fiction**
+
+#### The Shock Doctrine: The Rise of Disaster Capitalism - Naomi Klein
+
+![Cover]({{ site.baseurl }}/assets/img/shockdoctrine.jpg){:width="150px"}
+
+#### Behave: The Biology of Humans at Our Best and Worst - Robert Sapolsky
+
+![Cover]({{ site.baseurl }}/assets/img/behave.jpg){:width="150px"}
+
+#### The Spy and the Traitor: The Greatest Espionage Story of the Cold War - Ben Macintyre
+
+![Cover]({{ site.baseurl }}/assets/img/spyandthetraitor.jpg){:width="150px"}
+
+#### Papillon - Henri Charrière
+
+![Cover]({{ site.baseurl }}/assets/img/papillon.jpg){:width="150px"}
+
+#### The Age of Surveillance Capitalism - Shoshana Zuboff
+
+![Cover]({{ site.baseurl }}/assets/img/ageofsurveillancecapitalism.jpg){:width="150px"}
+
+Those that didn't quite make the cut (but were still excellent): 
+- The Right Stuff - Tom Wolfe
+- Hidden Valley Road - Robert Kolker
+- Midnight in Chernobyl - Adam Higginbotham
+- Rebel Ideas - Matthew Syed
+- The Deficit Myth - Stephanie Kelton
+- Into Thin Air - Jon Krakauer
+
+**Fiction**
+
+#### A Gentleman in Moscow - Amor Towles
+
+![Cover]({{ site.baseurl }}/assets/img/gentlemaninmoscow.jfif){:width="150px"}
+
+#### Beartown - Fredrik Backman
+
+![Cover]({{ site.baseurl }}/assets/img/beartown.jpg){:width="150px"}
+
+#### The Beekeeper of Aleppo - Christy Lefteri
+
+![Cover]({{ site.baseurl }}/assets/img/beekeeperofaleppo.jpg){:width="150px"}
+
+#### A Little Life - Hanya Yanagihara
+
+![Cover]({{ site.baseurl }}/assets/img/alittlelife.jpg){:width="150px"}
+
+#### City of Thieves - David Benioff
+
+![Cover]({{ site.baseurl }}/assets/img/cityofthieves.jpg){:width="150px"}
+
+Those that didn't quite make the cut: 
+- Anxious People - Fredrik Backman
+- Northern Lights - Philip Pullman (and the two sequels)
+- Recursion - Blake Crouch
+- A Man Called Ove - Fredrik Backman
+
+**Disclaimer**
+
+Not everyone enjoys reading, and not everyone has the luxury of time to read like I do, so please take whatever useful information you can from this post, but try not to compare yourself with it. I'm still setting myself the book a week target for 2021 because who knows what might happen in the coming year!
+
+For those of you thinking "how much time does it take to read all those books?!" the answer is about 2 to 2.5 hours a day (or around 100 pages).
+
+**Stats**
+
+I've now compiled a nice round five years using Goodreads, which means I can generate lots of interesting graphs for those who are interested...
+
+![Cover]({{ site.baseurl }}/assets/img/goodreadsbooks.png){:width="100%"}
+*Book counts year on year*
+
+![Cover]({{ site.baseurl }}/assets/img/goodreadsbooksyearonyear.png){:width="100%"}
+*Book counts month on month*
+
+![Cover]({{ site.baseurl }}/assets/img/goodreadspagesyearonyear.png){:width="100%"}
+*Page counts month on month*

@@ -2,20 +2,25 @@
 ---
 
 .profile {
-    position: relative;
+	position: relative;
 
-    .image {
-        float: left;
+	.image {
+		float: left;
 
-        img {
-            width: 80px;
-            border-radius: 50px;
-        }
-    }
-    
-    .info {
-        float: left;
-        width: 60%;
-        margin-left: 10px;
-    }
+		img {
+			width: 80px;
+			border-radius: 50px;
+		}
+	}
+
+	.info {
+		float: left;
+		width: 60%;
+		margin-left: 10px;
+	}
+}
+
+img + em {
+	text-align: center;
+	display: block;
 }

@@ -22,7 +22,7 @@ title: One Man and His Highlighter
 author: Simon Rose
 email: simonrose121@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Summaries, key quotes and takeaways from books that I've read.
+  Documenting my reading journey.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 

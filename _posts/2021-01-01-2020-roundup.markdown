@@ -4,11 +4,11 @@ title:  "101 in 2020 - A Year in Books"
 date:   2020-01-02 10:00:00 +0000
 ---
 
-2020 has been an interesting year. For me, It started by finishing several months of working as an associate lecturer for Sheffield Hallam University, a short term post after finishing my PhD to save money to go backpacking indefinitely in early February. My trip to South America lasted 6 weeks, before a mad journey to get home as governments panicked to deal with the impending COVID-19 pandemic. I made it home on the 17th March, 6 days before UK lockdown.
+2020 has been an interesting year. For me, It started with finishing several months of working as an associate lecturer for Sheffield Hallam University, a short term post after finishing my PhD to save money to go backpacking indefinitely in early February. My trip to South America lasted 6 weeks, before a mad journey to get home as governments panicked to deal with the impending COVID-19 pandemic. I made it home on the 17th March, 6 days before UK lockdown.
 
-Since then, I've been lucky enough to pick up various jobs that I've been able to do from home (including starting a [business](https://rosebrothersdigital.co.uk/)). However, with lockdown after lockdown, I've also had lots of time to read.
+Since then, I've been lucky enough to pick up various jobs that I've been able to do from home (including starting a [business](https://rosebrothersdigital.co.uk/){:target="_blank"}). However, with lockdown after lockdown, I've also had lots of time to read.
 
-I started reading properly in January 2016, when my brother and I set ourselves the goal of reading a book a week for that year. Since then, I've managed to beat this target each year, reading a roughly 50/50 split of fiction and non-fiction, across a wide range of subjects (the only barrier of entry to my reading list is a good rating on [Goodreads](https://www.goodreads.com/user/show/22312452-simon-rose).) I tend to have one fiction and one non-fiction on the go, that I'll swap between depending on the heaviness of the book, the time of day, and how bad my stress headache is.
+I started reading properly in January 2016, when my brother and I set ourselves the goal of reading a book a week for that year. Since then, I've managed to beat this target every year, reading a roughly 50/50 split of fiction and non-fiction, across a wide range of subjects (the only barrier of entry to my reading list is a good rating on [Goodreads](https://www.goodreads.com/user/show/22312452-simon-rose){:target="_blank"}.) I tend to have one fiction and one non-fiction on the go, that I'll swap between depending on the heaviness of the book, the time of day, and how bad my stress headache is.
 
 This year, however, I realised in around June that I was on pace to break triple figures for the first time. I've managed to maintain that consistency, even through the mental struggle that has been 2020, and reached 101 on the 30th December (a total of 35,586 pages). An achievement that I will probably not be able to achieve again, not least without some stat-padding.
 
@@ -34,7 +34,7 @@ The Shock Doctrine is a devastating, detailed critique of neo-liberal free-marke
 
 ![Cover]({{ site.baseurl }}/assets/img/behave.jpg){:width="150px"}
 
-I've read several books that touch on human biology, psychology, neurology and sociology. Sapolsky brings together all these strands in a masterful attempt to answer the question "why do we do the things we do?" Behave is wonderfully structured, starting with an event (a kiss, a punch, a twitch), and going through what happens in the brain milliseconds before, to evolutionary factors millions of years before. Sapolsky then uses this to wrestle with some of life's big questions relating to tribalism and xenophobia, hierarchy and competition, morality and free will, and war and peace. It's of the most comprehensive books I've ever read, and you don't need any existing knowledge to read it!
+I've read several books that touch on human biology, psychology, neurology and sociology. Sapolsky brings together all these strands in a masterful attempt to answer the question "why do we do the things we do?" Behave is wonderfully structured, starting with an event (a kiss, a punch, a twitch), and going through what happens in the brain milliseconds before, to evolutionary factors millions of years before. Sapolsky then uses this to wrestle with some of life's big questions relating to tribalism and xenophobia, hierarchy and competition, morality and free will, and war and peace. It's one of the most comprehensive books I've ever read, and you don't need any existing knowledge to read it!
 
 *"This is a central point of this book - we don’t hate violence. We hate and fear the wrong kind of violence, violence in the wrong context. Because violence in the right context is different."*
 
@@ -98,7 +98,7 @@ A heartwarming story of a Russian aristocrat, Count Alexander Rostov, who is str
 
 *"If a man does not master his circumstances then he is bound to be mastered by them."*
 
-*"Does a banquet really need an asparagus server?" "Does an orchestra need a bassoon?"*
+*"'Does a banquet really need an asparagus server?' 'Does an orchestra need a bassoon?'"*
 
 [https://amzn.to/2X4UEra](https://amzn.to/2X4UEra){:target="_blank"}
 
@@ -167,9 +167,9 @@ About 2 to 2.5 hours a day (or around 100 pages).
 
 *Do I read physical or electronic books?*
 
-Before this year, I read fiction on my Kindle and non-fiction in physical form, so that I could highlight bits and add post-its to key sections (and add them to my library). However, because of my backpacking trip, I started 2020 reading everything on Kindle and with the uncertainty of this year, have continued with that, only purchasing a couple of reference type books physically. I now use Kindle's highlight function and make sure to backup all my 'clippings' to [clippings.io](https://www.clippings.io/).
+Before this year, I read fiction on my Kindle and non-fiction in physical form, so that I could highlight bits and add post-its to key sections (and add them to my library). However, because of my backpacking trip, I started 2020 reading everything on Kindle and with the uncertainty of this year, have continued with that, only purchasing a couple of reference type books physically. I now use Kindle's highlight function and make sure to backup all my 'clippings' to [clippings.io](https://www.clippings.io/){:target="_blank"}.
 
-**Five Years on Goodreads - The Stats**
+**Five Years on Goodreads**
 
 Here are the stats from my five years of reading, for those who are interested...
 

@@ -15,7 +15,7 @@ I've decided to keep the fans happy, so here are my top 10 books from 2021 split
 
 #### Stillness Is the Key: An Ancient Strategy for Modern Life - Ryan Holiday
 
-![Stillness Is the Key - Cover]({{ site.baseurl }}/assets/img/stillnessisthekey.jpeg){:width="150px"}
+[![Stillness Is the Key - Cover]({{ site.baseurl }}/assets/img/stillnessisthekey.jpeg){:width="150px"}](https://www.goodreads.com/book/show/43582733-stillness-is-the-key){:target="_blank"}
 
 I've read most of Ryan Holiday's philosophy books, but this is by far my favourite. Stillness Is the Key takes ancient wisdom on the art of stillness from some of history's greatest thinkers (Confucius, Seneca, etc.) and describes succinctly how we can (and should) use it to counteract overstimulation of modern life. As a man who loves silence, solitude and consideration, this really resonated with me, and Holiday's style of writing means that every second sentence is quotable.
 
@@ -29,7 +29,7 @@ I've read most of Ryan Holiday's philosophy books, but this is by far my favouri
 
 #### Think Again: The Power of Knowing What You Don't Know - Adam Grant
 
-![Think Again - Cover]({{ site.baseurl }}/assets/img/thinkagain.jpeg){:width="150px"}
+[![Think Again - Cover]({{ site.baseurl }}/assets/img/thinkagain.jpeg){:width="150px"}](https://www.goodreads.com/book/show/55539565-think-again){:target="_blank"}
 
 Think Again is a book with a simple but profound message: be willing to accept when you're wrong. Grant covers the reasons why we get mired in our views and opinions and the strategies we can use to 'rethink' them. He does this on a personal and a cultural level, and explains ways to help others to 'think again' on apt topics such as vaccination. 
 
@@ -47,7 +47,7 @@ When have you changed your mind this year?
 
 #### With the End in Mind: Dying, Death, and Wisdom in an Age of Denial - Kathryn Mannix
 
-![With the End in Mind - Cover]({{ site.baseurl }}/assets/img/withtheendinmind.jpeg){:width="150px"}
+[![With the End in Mind - Cover]({{ site.baseurl }}/assets/img/withtheendinmind.jpeg){:width="150px"}](https://www.goodreads.com/book/show/35099051-with-the-end-in-mind){:target="_blank"}
 
 Talking about and thinking about death is uncomfortable and even taboo, even though it's something we all deal with throughout (and at the end of) our lives and is a key part of what makes life worth living. Dr. Kathryn Mannix beautifully draws together stories on death from her job as a palliative care nurse. This book was emotional to read, but the message is one of acceptance and that understanding and meeting death gently can have a profound impact on all those affected by the end of a life.
 
@@ -61,7 +61,7 @@ Talking about and thinking about death is uncomfortable and even taboo, even tho
 
 #### This is Going to Hurt: Secret Diaries of a Junior Doctor - Adam Kay
 
-![This is Going to Hurt - Cover]({{ site.baseurl }}/assets/img/thisisgoingtohurt.jpg){:width="150px"}
+[![This is Going to Hurt - Cover]({{ site.baseurl }}/assets/img/thisisgoingtohurt.jpg){:width="150px"}](https://www.goodreads.com/book/show/35510008-this-is-going-to-hurt){:target="_blank"}
 
 A devastating, heartbreaking and (at times) hilarious account of Adam Kay's time as a junior doctor in the NHS. He manages to combine humour with a shocking indictment of the current state of the NHS in a way that is distinctly British.
 
@@ -73,7 +73,7 @@ A devastating, heartbreaking and (at times) hilarious account of Adam Kay's time
 
 #### The Irrational Ape: Why Flawed Logic Puts us all at Risk and How Critical Thinking Can Save the World - David Robert Grimes
 
-![The Irrational Ape - Cover]({{ site.baseurl }}/assets/img/irrationalape.jpg){:width="150px"}
+[![The Irrational Ape - Cover]({{ site.baseurl }}/assets/img/irrationalape.jpg){:width="150px"}](https://www.goodreads.com/book/show/44584488-the-irrational-ape){:target="_blank"}
 
 The Irrational Ape is a brilliantly written book that focuses on using critical thinking and the scientific method to conquer the biases, heuristics and flawed logic that evolution has endowed us with, and that are exploited by the modern world, resulting in misinformation, ignorance and mistrust. It's one of those paradigm shifting books that serves as a reminder to always question the assumptions of an argument, that data can be presented to suit that argument and that has developed my understanding why people believe things that are evidently false.
 
@@ -87,11 +87,11 @@ The Irrational Ape is a brilliantly written book that focuses on using critical 
 
 Honourable mentions:
 
-- When Breath Becomes Air - Paul Kalanithi
-- Unbroken: A World War II Story of Survival, Resilience and Redemption - Laura Hillenbrand
-- Humankind: A Hopeful History - Rutger Bregman
-- Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones - James Clear
-- Maybe You Should Talk to Someone: A Therapist, Her Therapist, and Our Lives Revealed - Lori Gottlieb
+- [When Breath Becomes Air - Paul Kalanithi](https://www.goodreads.com/book/show/25899336-when-breath-becomes-air){:target="_blank"}
+- [Unbroken: A World War II Story of Survival, Resilience and Redemption - Laura Hillenbrand](https://www.goodreads.com/book/show/8664353-unbroken){:target="_blank"}
+- [Humankind: A Hopeful History - Rutger Bregman](https://www.goodreads.com/book/show/51018586-humankind){:target="_blank"}
+- [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones - James Clear](https://www.goodreads.com/book/show/40121378-atomic-habits){:target="_blank"}
+- [Maybe You Should Talk to Someone: A Therapist, Her Therapist, and Our Lives Revealed - Lori Gottlieb](https://www.goodreads.com/book/show/37570546-maybe-you-should-talk-to-someone){:target="_blank"}
 
 ### Fiction
 
@@ -99,7 +99,7 @@ Honourable mentions:
 
 #### Project Hail Mary - Andy Weir
 
-![Project Hail Mary - Cover]({{ site.baseurl }}/assets/img/projecthailmary.jpeg){:width="150px"}
+[![Project Hail Mary - Cover]({{ site.baseurl }}/assets/img/projecthailmary.jpeg){:width="150px"}](https://www.goodreads.com/book/show/54493401-project-hail-mary){:target="_blank"}
 
 Project Hail Mary is an incredible book. It's a gripping dual-narrative story about a guy who wakes up from a coma alone on a spaceship, but it also contains philosophical and scientific considerations of the aspects of Earth and humanity that we take for granted but may not be used by other intelligent life, such as how our eyes convert light into a 3D image of our surroundings, and how our bodies are majoratively water.
 
@@ -111,27 +111,27 @@ Project Hail Mary is an incredible book. It's a gripping dual-narrative story ab
 
 #### The Stand - Stephen King
 
-![The Stand - Cover]({{ site.baseurl }}/assets/img/thestand.jpeg){:width="150px"}
+[![The Stand - Cover]({{ site.baseurl }}/assets/img/thestand.jpeg){:width="150px"}](https://www.goodreads.com/book/show/149267.The_Stand){:target="_blank"}
 
-The Stand is a mammoth of a book, clocking in at 1300 pages, but the story is incredibly well crafted and multi-layered. It follows several characters through an outbreak of a deadly virus (ring any bells?) who's lives become intertwined in a fight between good and evil.
+The Stand is a mammoth of a book, the complete and uncut edition comes in at close to 1152 pages, but the story is incredibly well crafted and multi-layered. It follows several characters through an outbreak of a deadly virus (ring any bells?) who's lives become intertwined in a fight between good and evil. There's also a shorter, [800 page original](https://www.goodreads.com/book/show/644283.The_Stand){:target="_blank"}.
 
 > "Life was such a wheel that no man could stand upon it for long."
 
 #### The Last Command - Timothy Zahn
 
-![The Last Command - Cover]({{ site.baseurl }}/assets/img/thelastcommand.jpg){:width="150px"}
+[![The Last Command - Cover]({{ site.baseurl }}/assets/img/thelastcommand.jpg){:width="150px"}](https://www.goodreads.com/book/show/216422.The_Last_Command){:target="_blank"}
 
 This series is a must-read for any Star Wars fans. The first book picks up chronologically after Return of the Jedi and takes Luke, Leia and Han's story to new levels against Admiral Thrawn (a character unique to the books). I loved it because Zahn goes into far more detail on the universe and technology than the films ever did. I've chosen the last book in the series as it was my favourite, but they'd need to be read in order.
 
 #### Prodigal Son - Gregg Andrew Hurwitz
 
-![Prodigal Son - Cover]({{ site.baseurl }}/assets/img/prodigalson.jpeg){:width="150px"}
+[![Prodigal Son - Cover]({{ site.baseurl }}/assets/img/prodigalson.jpeg){:width="150px"}](https://www.goodreads.com/book/show/53138122-prodigal-son){:target="_blank"}
 
 The 6th book in the Orphan X series, Prodigal Son continues Evan Smoak's character arc from distant and isolated killer to a man grappling with the pull of family and friends. As always, the book is exceptionally paced.
 
 #### One Hundred Years of Solitude - Gabriel Garcí­a Márquez
 
-![One Hundred Years of Solitude - Cover]({{ site.baseurl }}/assets/img/onehundred.jpeg){:width="150px"}
+[![One Hundred Years of Solitude - Cover]({{ site.baseurl }}/assets/img/onehundred.jpeg){:width="150px"}](https://www.goodreads.com/book/show/320.One_Hundred_Years_of_Solitude){:target="_blank"}
 
 One Hundred Years of Solitude is a book that was difficult to read but has grown on me after I finished it. It chronicles 100 years (as the title suggests) of a fictional town in Colombia through foundation, revolution and imperialism. I found it difficult because the protagonists, the Buendia family, are not easy to connect with, but instead serve as a conduit for the history of Latin America. It's nonsensical (Márquez was one of the first proponents of magical realism) and fantastical but this gives the book deeper meaning... in hindsight.
 
@@ -141,11 +141,12 @@ One Hundred Years of Solitude is a book that was difficult to read but has grown
 
 Honourable mentions:
 
-- Harry Potter Series - J.K. Rowling (incredible, my favourite series and one I'll keep coming back to - infinitely better than the movies.)
-- A Song of Ice and Fire Series - George R.R. Martin (a brilliant, but unfinished, achievement - and no I've not seen the TV show.)
-- The Extraordinary Life of Sam Hell - Robert Dugoni
+- [Harry Potter Series - J.K. Rowling](https://www.goodreads.com/series/45175-harry-potter){:target="_blank"} (incredible, my favourite series and one I'll keep coming back to - infinitely better than the movies.)
+- [A Song of Ice and Fire Series - George R.R. Martin (a brilliant, but unfinished, achievement - and no I've not seen the TV show.)](https://www.goodreads.com/series/43790-a-song-of-ice-and-fire){:target="_blank"}
+- [The Extraordinary Life of Sam Hell - Robert Dugoni](https://www.goodreads.com/book/show/35995489-the-extraordinary-life-of-sam-hell){:target="_blank"}
+- [The Last Green Valley - Mark T. Sullivan](https://www.goodreads.com/book/show/54362408-the-last-green-valley){:target="_blank"}
 
-Thanks for reading! I'll finish with a quote that I've heard use for travelling, but is just as applicable to reading:
+Thanks for reading! I'll finish with a quote that I've heard used for travelling, but is just as applicable to reading:
 
 > Read not to escape life, but so that life does not escape you.
 

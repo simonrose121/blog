@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "500+ days of Mood Meter"
-date:   2022-11-15 10:00:00 +0000
+date:   2022-11-19 10:00:00 +0000
 ---
 
 In the summer of 2020, after a curtailed backpacking trip to South America and 4 months of pandemic-induced lockdown, my mental health was at a low. I was in the midst of a [101 book](2021-01-01-2020-roundup.markdown) year, and in August I read [Permission to Feel by Marc Brackett](https://www.goodreads.com/book/show/43782400-permission-to-feel).

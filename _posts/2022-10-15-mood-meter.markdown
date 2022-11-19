@@ -52,4 +52,4 @@ The book itself is well worth a read if you're interested in more of the science
 
 #### Will you carry on?
 
-Yes! For as long as I can. There is now a new app, called [How We Feel](https://howwefeel.org/) that builds upon Mood Meter I'll most likely transition over to soon, Brackett has written a [short article](https://www.marcbrackett.com/about/mood-meter-app/) about it.
+Yes! For as long as I can. There is now a new app, called [How We Feel](https://howwefeel.org/), that builds upon Mood Meter. Brackett has written a [short article](https://www.marcbrackett.com/about/mood-meter-app/) about it. I'll most likely transition over to that at the start of December.

@@ -8,9 +8,9 @@ In the summer of 2020, after a curtailed backpacking trip to South America and 4
 
 The book that focuses on teaching and training emotional intelligence: being able to recognise, understand, label, express and regulate your emotions. The method that Brackett and his research team have developed divides emotions into four quadrants along two axis: low and high energy, and unpleasant and pleasant. They also developed a mobile app, called [Mood Meter](https://moodmeterapp.com/), where you can report your emotions using this matrix, allowing you to track your mood over time.
 
-![Mood Meter Grid]({{ site.baseurl }}/assets/img/mood-meter-grid.webp){:width="900px"}
+![Mood Meter Grid]({{ site.baseurl }}/assets/img/mood-meter-grid.png){:width="900px"}
 
-Mood tracking is something that I've tried a few times over the years and never managed to get to stick, so I was eager to see whether I could report my moods using this process. Brackett suggests that emotions should be reported as and when they arise. However, when I read the book, I wasn't in a headspace where I really wanted to explore what I was feeling. I ended up tried it for a few days and found it very uncomfortable, so stopped.
+Mood tracking is something that I've tried a few times over the years and never managed to get to stick, so I was eager to see whether I could report my moods using this process. Brackett suggests that emotions should be reported as and when they arise. However, when I read the book, I wasn't in a headspace where I really wanted to explore what I was feeling. I ended up trying it for a few days and found it very uncomfortable, so stopped.
 
 #### The Breakthrough
 
@@ -30,19 +30,19 @@ On Todoist, I have three items for Morning, Lunch and Evening Mood Meter. I then
 
 #### How do you pick a mood?
 
-The app works by first selecting a quadrant, then choosing a mood within that quadrant. I'll firstly reflect on if I'm feeling high or low energy and then if the emotion is unpleasant or pleasant. This helps narrow down what my prevailing feeling is at the time. It's worth noting that it's not an exact science, and it doesn't matter if you get it wrong - it's about building awareness over time.
+The app works by first selecting a quadrant, then choosing a mood within that quadrant. I'll first reflect on if I'm feeling high or low energy and then if the emotion is unpleasant or pleasant. This helps narrow down what my prevailing feeling is at the time. It's worth noting that it's not an exact science, and it doesn't matter if you get it wrong - it's about building awareness over time. I also tend not to answer the follow up questions on Mood Meter when reporting my mood, mainly out of laziness.
 
 Side note, these same skills of recognising (and letting go of) thoughts and feelings is often employed in meditation, a practice known as [noting](https://www.headspace.com/articles/noting-technique-take-advantage). 
 
 #### What impact has it made to your life?
 
-Along with daily meditation, tracking my mood has had a huge positive impact on my self-awareness and emotional intelligence. It hasn't stopped me going through difficult patches, but recognising that it will pass and that it's okay to feel that way has done wonders for me. The biggest takeaway has been that most of the time I'm experiencing pleasant feelings, because when I've been down in the dumps it definitely doesn't feel that way.
+Along with daily meditation, tracking my mood has had a huge positive impact on my self-awareness and emotional intelligence. It hasn't stopped me going through difficult patches, but recognising that it will pass and that it's okay to feel that way has done wonders for me. The biggest takeaway has been that most of the time I experience pleasant feelings, because when I'm down in the dumps it definitely doesn't feel that way.
 
-It has also helped me reflect on what is going on in my life, how that impacts my mood and possible changes I can make to get myself back at baseline. This has included particularly stressful periods, such as August this year with a lot of uncertainty in both my work and personal life, as you can see below.
+It has also helped me reflect on what is going on in my life, how that impacts my mood and possible changes I can make to get myself back at baseline. For example, there was a lot of uncertainty in August this year in both my work and personal life, as you can see below.
 
 ![Mood Meter Months]({{ site.baseurl }}/assets/img/mood-meter-months.jpeg){:width="600px"}
 
-Doing it at a set point each day (kind of, there are sometimes hours of variance as you can see in the image above) has forced me to think about how I'm feeling, a skill that I'm now able to do, most of the time, outside of those set points.
+Doing it at a set point each day (kind of, there are sometimes hours of variance as you can see in the image above) has forced me to think about how I'm feeling. This is something that I now find myself doing at other points throughout the day.
 
 #### Would you recommend others doing it?
 
@@ -52,4 +52,4 @@ The book itself is well worth a read if you're interested in more of the science
 
 #### Will you carry on?
 
-Yes! For as long as I can, or as long as the app is still supported... then I'll have write my own.
+Yes! For as long as I can. There is now a new app, called [How We Feel](https://howwefeel.org/) that builds upon Mood Meter I'll most likely transition over to soon, Brackett has written a [short article](https://www.marcbrackett.com/about/mood-meter-app/) about it.

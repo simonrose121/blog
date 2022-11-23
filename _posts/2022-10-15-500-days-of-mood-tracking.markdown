@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "500+ days of Mood Meter"
-date:   2022-11-19 10:00:00 +0000
+title:  "500+ Days of Mood Tracking"
+date:   2022-11-23 08:30:00 +0000
 ---
 
 In the summer of 2020, after a curtailed backpacking trip to South America and 4 months of pandemic-induced lockdown, my mental health was at a low. I was in the midst of a [101 book](2021-01-01-2020-roundup.markdown) year, and in August I read [Permission to Feel by Marc Brackett](https://www.goodreads.com/book/show/43782400-permission-to-feel).
@@ -16,15 +16,15 @@ Mood tracking is something that I've tried a few times over the years and never 
 
 Fast forward several months to late January 2021 and I had just finished [When Breath Becomes Air by Paul Kalanithi](https://www.goodreads.com/book/show/25899336-when-breath-becomes-air), a heart-breaking memoir written by a 36-year-old neurosurgeon who was diagnosed with stage 4 lung cancer and is coming to terms with his own morality. What I took from his story was the importance of awareness, understanding yourself, and not letting life pass you by. It was then that I took the tentative step to go back to reporting my moods, but instead of doing it when particularly strong emotions arise (I would never think to do it if this was the case), I would attempt to log my mood in the morning, lunchtime and evening, every day. As with diet and exercise, the best routine is one that you can stick to!
 
-It is now late 2022, and I've logged my mood on Mood Meter 3 times every day since the 31st January 2021, 658 days at the time of writing. The rest of this post will explain how I've kept this up, what I've learnt and most importantly, how it's made me feel.
+It is now late 2022, and I've logged my mood on Mood Meter 3 times every day since the 31st January 2021, 662 days at the time of writing. The rest of this post will explain how I've kept this up, what I've learnt and most importantly, how it's made me feel.
 
-A quick note, I'll use the terms 'emotions', 'feelings' and 'moods' interchangably throughout this article.
+A quick note, I'll use the terms 'emotions', 'feelings' and 'moods' interchangeably throughout this article.
 
 ### Questions and Answers
 
 #### How do you keep it up?
 
-As I discussed in my blog post on [meditation](2022-01-23-500-days-of-headspace.markdown), I use Todoist to keep track of what I need to do during the day. I then have the widget on my phone's home screen, so this list is visible every time I unlock it. I have had days where the widget has broken, and I forget to do most of the things on the list... but it works for me most of the time! For anyone who struggles to remember to do menial tasks during the day, this approach has done wonders for me.
+As I discussed in my blog post on [meditation](2022-01-23-500-days-of-headspace.markdown), I use [Todoist](https://todoist.com/) to keep track of what I need to do during the day. I then have the widget on my phone's home screen, so this list is visible every time I unlock it. I have had days where the widget has broken, and I forget to do most of the things on the list... but it works for me most of the time! For anyone who struggles to remember to do menial tasks during the day, this approach has done wonders for me.
 
 On Todoist, I have three items for Morning, Lunch and Evening Mood Meter. I then tick them off when I've reported my mood in the app.
 
